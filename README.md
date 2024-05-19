@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fai-header&psig=AOvVaw2tEKh9AcDPvDWD-npFt-3r&ust=1716184601488000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDI64CEmYYDFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi 👋, I'm JAI PATHAK</h1>
 <h3 align="center">A passionate Artificial Intelligence developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
