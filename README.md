@@ -4,7 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
-- 📫 How to reach me **jaipathak1972@gmail.com**
+- 📫 How to reach me **jaipathak1972@gmail.com** / **[jaipathak.com](https://jaipathak1972.github.io/Portfolio-Website/)**
+
 - 🌐 Exploring and learning **AI and Python coding**.
 - 📚 Currently diving into **machine learning algorithms and their applications**.
 - 💡 Passionate about technology to **solve real-world problems**.
